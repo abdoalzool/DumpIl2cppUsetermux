@@ -1,4 +1,4 @@
-# Dump unity Use termux 
+# Dump il2cpp Use termux 
 
 untuk root 
 
