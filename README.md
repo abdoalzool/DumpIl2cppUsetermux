@@ -53,7 +53,7 @@ sudo ./amiya -s amiya.js -p 30347
 
 
 
-
+https://youtube.com/watch?v=wejcXnlqgWQ&feature=share9
 
 
 
