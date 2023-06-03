@@ -11,7 +11,7 @@ apt install git wget nodejs tsu
 ```
 
 git clone repo ini 
-```
+```bash
 git clone https://github.com/QPLAYid/DumpIl2cppUsetermux
 ``` 
 masuk ke directory 
