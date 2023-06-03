@@ -36,16 +36,19 @@ chmod +x frida64
 
 #cara pakai 
 
-#1 
-```sudo ./frida64 -s amiya.js -f "com.android.package" ```
+#1 mengunakan package name
+```bash
+sudo ./frida64 -s amiya.js -f "com.android.package"
+```
 
 
 
-#2 
-``` sudo ./frida64 -s amiya.js -p 30347
+#2 mengunakan pid 
+```bash
+sudo ./frida64 -s amiya.js -p 30347
 
 ``` 
-jangan lupa install wget juga
+
 
 
 
