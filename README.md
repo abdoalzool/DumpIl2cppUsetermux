@@ -16,7 +16,7 @@ git clone https://github.com/QPLAYid/DumpIl2cppUsetermux
 ``` 
 masuk ke directory 
 ```
-cd DumpunityUsetermux 
+cd DumpIl2cppUsetermux 
 ```
 
 #copy dan paste ini di termux 
