@@ -19,8 +19,8 @@ function t() {
 }
 
 function e() {
-  Il2Cpp.dump();
-  console.log("D++++++++++O++++++N++++++++E");
+  Il2Cpp.dump("amiya_dump.cs");
+  console.log("DONE");
   console.log("Telegram: @MyAlessa");
 }
 
