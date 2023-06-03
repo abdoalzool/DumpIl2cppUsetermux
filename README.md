@@ -3,8 +3,8 @@
 untuk root 
 
 git clone repo ini 
-```bash
-https://github.com/QPLAYid/DumpIl2cppUsetermux/edit/main/ 
+```
+git clone https://github.com/QPLAYid/DumpIl2cppUsetermux
 ``` 
 masuk ke directory 
 ```
