@@ -3,16 +3,22 @@
 untuk root 
 
 git clone repo ini 
-
+```bash
+https://github.com/QPLAYid/DumpIl2cppUsetermux/edit/main/ 
+``` 
+masuk ke directory 
+```
 cd DumpunityUsetermux 
-
+```
 
 #copy dan paste ini di termux 
 
+
+```bash
 wget https://github.com/frida/frida/releases/download/16.0.19/frida-inject-16.0.19-android-arm64.xz
 unxz frida-inject-16.0.19-android-arm64.xz
 mv frida-inject-16.0.19-android-arm64 frida64
-
+```
 
 #buat bisa di execute 
 
