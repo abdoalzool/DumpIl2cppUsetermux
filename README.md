@@ -2,6 +2,12 @@
 
 untuk root 
 
+jalankan ini 
+
+```apt update && apt upgrade
+apt install git wget nodejs tsu 
+```
+
 git clone repo ini 
 ```
 git clone https://github.com/QPLAYid/DumpIl2cppUsetermux
