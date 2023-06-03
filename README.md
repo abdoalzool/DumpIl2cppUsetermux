@@ -29,10 +29,10 @@ mv frida-inject-16.0.19-android-arm64 frida64
 ```
 
 #buat bisa di execute 
-
+```bash
 chmod +x frida64
 
-
+```
 
 #cara pakai 
 
